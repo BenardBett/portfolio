@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>portfolio</title>
+    <title>Contacts</title>
+       
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
@@ -23,25 +24,22 @@
         </div>
     </header>
     <br><br><br>
+    <div class="container">
+        <form action="/action_page.php">
+            <label for="fname"> Name</label>
+                <input type="text" id="name" name="name" placeholder="Your name..">
+                <br><br>
+                <label for="email">Email</label>
+                <input type="text" id="email" name="email" placeholder="Your email.">
 
-    <div class="first">
-        <h1><strong>Bio Data</strong></h1>
-        <img src="images/bbbbbb.jpg" alt="" height="320px" width="300px">
-        <ul>
-            <li><em>Name:</em><strong>Benard Kiplangat Bett.</strong></li>
-            <li><em>Age:</em><strong>24 years old.</strong></li>
-            <li><em>Email:</em><strong>kiplangatbett5@gmail.com</strong></li>
-            <li><em>Gender:</em><strong>Male</strong></li>
-            <li><em>Religion:</em><strong>Christianity</strong></li>
-            <li><em>Nationality:</em><strong>Kenyan</strong></li>
-        </ul>
 
+                <label for="message">Subject</label>
+                <textarea id="message" name="message" placeholder="Send a message..." style="height:200px"></textarea>
+
+                <input type="submit" value="Submit">
+        </form>
     </div>
 
-
-
-
 </body>
-
 
 </html>
