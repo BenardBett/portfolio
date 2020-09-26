@@ -39,7 +39,10 @@ a{
    text-align: center;
    
 }
- 
+ .hobbies>ol>li{
+   text-align: center;
+   list-style-type: none;
+ }
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
