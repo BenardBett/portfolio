@@ -1,5 +1,6 @@
 *{
-    background-image: url(https://cdn5.f-cdn.com/contestentries/212081/10921447/5549c4471c049_thumb900.jpg);
+    /* background-image: url(https://cdn5.f-cdn.com/contestentries/212081/10921447/5549c4471c049_thumb900.jpg); */
+    background-color: cornsilk;
 }
 nav{
     background-color: blue;
@@ -16,9 +17,10 @@ nav>ul>li{
     display: inline; 
     margin: 20px;
     text-decoration: none; 
+    font-size: 25px;
 }
 li>a{
-    color: white;
+    color: black;
 }
 a{
     text-decoration:none;
@@ -28,7 +30,7 @@ a{
  #first{
    text-align: center;  
    font-size: 50px;
-   padding-top: 50%;
+   padding-top: 10%;
    padding-bottom: 50%;
 }
 
@@ -99,7 +101,8 @@ input[type=submit]:hover {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
-  color: white;
+  background-color:rgb(57, 214, 125);
+  color:black;
   text-align: center;
+  font-size: 25px;
 }
