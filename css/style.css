@@ -53,6 +53,14 @@ a{
    list-style-type: none;
    font-size: 25px;
  }
+ .education{
+   text-align: center;
+   font-size: 25px;
+ }
+ .experience{
+   text-align: center;
+   font-size: 25px;
+ }
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
