@@ -43,6 +43,7 @@ a{
  .hobbies>ol>li{
    text-align: center;
    list-style-type: none;
+   font-size: 25px;
  }
  .skills>ul>li{
    text-align: center;
