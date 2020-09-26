@@ -1,3 +1,6 @@
+*{
+    background-image: url(https://cdn5.f-cdn.com/contestentries/212081/10921447/5549c4471c049_thumb900.jpg);
+}
 nav{
     background-color: blue;
     display: flex;
@@ -20,23 +23,23 @@ li>a{
 a{
     text-decoration:none;
 }
+   
 
-body{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image: url('images/backport.jpeg');
-}
-.first{
-    list-style-type: none;
-    text-align: center;
-    font-size: 50px;
-    justify-content: center;
-    /* background-image: url('backport.jpeg'); */
+ #first{
+   text-align: center;  
+   font-size: 50px;
+   padding-top: 50%;
+   padding-bottom: 50%;
 }
 
-img{
+ img{
     float: left;
+ }
+ .about{
+   text-align: center;
+   
 }
-
+ 
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
@@ -67,4 +70,4 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
-}
+} 
