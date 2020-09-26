@@ -43,6 +43,11 @@ a{
    text-align: center;
    list-style-type: none;
  }
+ .skills>ul>li{
+   text-align: center;
+   list-style-type: none;
+   font-size: 25px;
+ }
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
