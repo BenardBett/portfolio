@@ -10,7 +10,7 @@ nav{
     top:0;
     left:0;
     padding-top: 10px;
-    position:fixed;
+    position:fixed; 
     
 } 
 nav>ul>li{
@@ -101,7 +101,7 @@ input[type=submit]:hover {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:rgb(57, 214, 125);
+   background-color:rgb(57, 214, 125); 
   color:black;
   text-align: center;
   font-size: 25px;
