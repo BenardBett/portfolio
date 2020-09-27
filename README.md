@@ -21,4 +21,4 @@ This project has all the information of things i have done that is description o
 I would like to give credit to my Technical mentor for the guidance she gave me towards the development of this web
 ### License
 * Licensed under the MIT license
-Copyright (c) [2020] (Benard K. Bett)
+Copyright (c) [2020] (Benard Kiplangat Bett)
